@@ -1,6 +1,7 @@
-# app_curso_flutter_formacao
+# app-personagens-sw
 
-A new Flutter project.
+App criado baseado no curso da Alura. (certificado)[https://cursos.alura.com.br/user/geordano/course/flutter-widgets-stateless-stateful-imagens-animacoes/certificate]
+
 
 ## Getting Started
 
